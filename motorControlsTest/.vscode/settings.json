@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "/home/lsantos/GitHub/CarProject/motorControlsTest/src/motor_controller_hw"
+    
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ]
+    
+}
